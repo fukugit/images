@@ -5,4 +5,4 @@ This project has image files.
 The image fils which are stored in this project, able to be used by another GitHub Readme file.  
 
 ## Who is for?
-Owned all of GitHub repository's Readme file.  
+My all of GitHub repository's Readme file.  
